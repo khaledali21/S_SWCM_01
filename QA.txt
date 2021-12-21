@@ -1,2 +1,10 @@
-First Line on testing in testing_feature
-Secon Line of testing in master after merge
+/*First Line on testing in testing_feature
+Secon Line of testing in master after merge*/
+
+#include <stdio.h>
+
+int main(void)
+{
+	printf("Hello, Testing\n");
+	return 0;
+}
